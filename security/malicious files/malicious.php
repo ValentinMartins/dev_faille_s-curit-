@@ -1,0 +1,4 @@
+<?php
+// malicious.php
+phpinfo();
+?>

@@ -1,0 +1,1 @@
+<?php echo 'Ceci est un script malveillant!'; ?>
